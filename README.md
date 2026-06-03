@@ -1,0 +1,2 @@
+# Dockerfile
+fastapi==0.111.0 pydantic==2.7.2 uvicorn==0.30.1
